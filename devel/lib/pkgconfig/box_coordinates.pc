@@ -1,0 +1,8 @@
+prefix=/home/sohyeon/gazebo_ws/devel
+
+Name: box_coordinates
+Description: Description of box_coordinates
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

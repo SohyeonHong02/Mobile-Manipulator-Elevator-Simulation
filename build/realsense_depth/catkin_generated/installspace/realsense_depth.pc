@@ -1,0 +1,8 @@
+prefix=/home/sohyeon/gazebo_ws/install
+
+Name: realsense_depth
+Description: Description of realsense_depth
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

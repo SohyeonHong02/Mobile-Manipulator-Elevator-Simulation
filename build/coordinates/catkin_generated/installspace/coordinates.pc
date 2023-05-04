@@ -1,0 +1,8 @@
+prefix=/home/sohyeon/gazebo_ws/install
+
+Name: coordinates
+Description: Description of coordinates
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

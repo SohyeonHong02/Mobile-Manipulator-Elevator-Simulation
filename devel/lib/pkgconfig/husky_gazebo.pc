@@ -1,0 +1,8 @@
+prefix=/home/sohyeon/gazebo_ws/devel
+
+Name: husky_gazebo
+Description: Description of husky_gazebo
+Version: 0.4.12
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

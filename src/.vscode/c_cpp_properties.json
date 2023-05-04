@@ -1,0 +1,31 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/sohyeon/gazebo_ws/devel/include/**",
+        "/home/sohyeon/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/sohyeon/gazebo_ws/src/box_coordinates/include/**",
+        "/home/sohyeon/gazebo_ws/src/darknet_ros/darknet_ros/include/**",
+        "/home/sohyeon/gazebo_ws/src/husky/husky_auto/include/**",
+        "/home/sohyeon/gazebo_ws/src/husky/husky_base/include/**",
+        "/home/sohyeon/catkin_ws/src/my_first_ros_pkg/include/**",
+        "/home/sohyeon/gazebo_ws/src/realsense_depth/include/**",
+        "/home/sohyeon/gazebo_ws/src/common_msgs/sensor_msgs/include/**",
+        "/home/sohyeon/gazebo_ws/src/universal_robot/ur_example_controller/include/**",
+        "/home/sohyeon/gazebo_ws/src/universal_robot/ur_kinematics/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
