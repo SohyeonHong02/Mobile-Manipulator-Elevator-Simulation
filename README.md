@@ -1,5 +1,5 @@
 # Mobile-Manipulator-Simulation
-BARAM 2022 2학기 작품
+BARAM 2022-2
 
 # 실행
 ```
