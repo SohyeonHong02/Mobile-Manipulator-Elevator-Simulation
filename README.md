@@ -1,7 +1,7 @@
 # Mobile-Manipulator-Simulation
 BARAM 2022-2
 
-# 실행
+# Run
 ```
 roslaunch ur_e_gazebo husky_ur5e.launch
 
